@@ -4,7 +4,7 @@ const settings = {
     "frontity": {
       "url": "https://arkademi.com",
       "title": "Arkademi Blog",
-      "description": "#PastiBisa"
+      "description": "Kursus Online No. 1 di Indonesia"
     }
   },
   "packages": [
