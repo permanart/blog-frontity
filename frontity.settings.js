@@ -2,7 +2,7 @@ const settings = {
   "name": "blogark",
   "state": {
     "frontity": {
-      "url": "https://arkademi.com",
+      "url": "https://baru.arkademi.com",
       "title": "Arkademi Blog",
       "description": "Kursus Online No. 1 di Indonesia"
     }
@@ -53,7 +53,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://arkademi.com"
+          "url": "https://baru.arkademi.com"
         }
       }
     },
